@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@font-face {
+    font-family: 'Grafik-bold';
+    src: url('./fonts/Grafik/Graphik-Bold-Trial.otf') format('opentype');
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Grafik';
+    src: url('./fonts/Grafik/Graphik-Regular-Trial.otf') format('opentype');
+    font-style: normal;
+    font-display: swap;
+}
